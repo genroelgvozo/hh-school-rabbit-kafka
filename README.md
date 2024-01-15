@@ -1,0 +1,1 @@
+# hh-school-rabbit-kafka
